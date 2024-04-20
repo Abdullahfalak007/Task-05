@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Begum W03 Regular";
+}
+
+#headerDiv {
+    background-color: rgb(34, 35, 37);
+    width: 100%;
+    height: 23vw;
+    color: white;
+
+}
+
+h1{
+    padding: 5vw 10vw 0vw 10vw;
+    font-size: 3.5vw;
+}
+
+#stamps{
+    display: flex !important;
+    margin-left: 7.4vw;
+    margin-top: 2vw;
+}
+
+#subStamps{
+    display: flex !important;
+    margin-left: 7.4vw;
+    margin-top: 5vw;
+    margin-bottom: 1.5vw;
+}
+
+
+#dp{
+    border-radius: 30vw;
+}
+
+.headerDivImgs{
+    margin-left: 3vw !important;
+}
+
+.imgText{
+    margin-left: 0.5vw;
+    font-weight: lighter !important;
+    font-size: smaller;
+}
+
+#blackClockImg{
+    margin-top: -0.25vw;
+}
+
+#girlPic{
+    width: 80vw;
+    height: 65vh;
+    margin: 0 10.5% 0 10.5%;
+}
+
+.imgText1 {
+    color: grey !important;
+    margin-left: 0.5vw;
+    font-weight: 100 !important;
+    font-size: smaller;
+    margin-bottom: 0.5vw;
+}
+
+#heading2{
+    padding: 5vw 10vw 0vw 10vw;
+    font-size: 3.0vw;
+}
+
+.paragraphs{
+    padding: 0vw 10vw 0vw 10vw;
+    font-weight: lighter;
+}
